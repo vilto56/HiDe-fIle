@@ -9,7 +9,7 @@ How to Use?
 1.apt-get update
 2.apt-get upgrade
 3.apt-get install python3
-4.git clone https://github.com/Sayuk49/Hider
+4.git clone https://github.com/vilto56/HiDe-file
 5.cd Hider
 6.chmod +x install
 7. ./install
