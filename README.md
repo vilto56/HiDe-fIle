@@ -14,3 +14,4 @@ How to Use?
 6.chmod +x install
 7. ./install
 6.python3 hider.py
+Use only for educatioal purpose
