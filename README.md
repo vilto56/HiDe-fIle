@@ -2,7 +2,7 @@
 Tools To Use Steganography To Hide A File In An Image
 
 Which Terminal It Should Work?
-1.Kali
+1.Kali linux
 
 How to Use?
 #Kali
@@ -12,5 +12,5 @@ How to Use?
 4.git clone https://github.com/Sayuk49/Hider
 5.cd Hider
 6.chmod +x install
-7. ./install
+7../install
 6.python3 hider.py
